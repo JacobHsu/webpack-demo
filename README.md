@@ -8,4 +8,6 @@ Webpack [Getting Started](https://webpack.js.org/guides/getting-started/)
 「分發」代碼(/dist) 構建過程產生的代碼最小化和優化後的「輸出」目錄  
 
 `npx webpack src/index.js --output dist/bundle.js`  
-The `npx` command, which ships with `Node 8.2` or higher,
+The `npx` command, which ships with `Node 8.2` or higher
+
+`npm run build`  
